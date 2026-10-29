@@ -73,15 +73,10 @@ export const HERO_CONTENT = {
   headlineSub: 'INTO REAL ₹.',
   alternateHeadline: 'HYPE IN. RUPEES OUT.',
   description:
-    'The dedicated tipping engine for Indian live-streamers. One link or QR code allows viewers to tip via UPI and cards. Live alerts hit your OBS canvas with instant text-to-speech shoutouts.',
-  primaryCta: 'Request Access',
+    'One link. Direct UPI tips on stream with instant text-to-speech shoutouts.',
+  primaryCta: 'Get Early Access',
   secondaryCta: 'See How It Works',
-  trustBadge: 'No minimum followers · Setup in minutes · Fees shown clearly before you sign up',
-  technicalSpecs: [
-    { label: 'ALERT LATENCY', value: '< 250MS' },
-    { label: 'RAILS', value: 'UPI / CARDS / NETBANKING' },
-    { label: 'OBS OVERLAY', value: 'BROWSER SOURCE V2' },
-  ],
+  trustBadge: 'No minimum followers · Setup in minutes',
 };
 
 export const STATS_STRIP: StatItem[] = [
