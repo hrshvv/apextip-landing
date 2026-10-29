@@ -5,11 +5,11 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { X } from 'lucide-react';
 
 const MENU_ITEMS = [
-  { number: '01', title: 'FEATURES', href: '#features' },
-  { number: '02', title: 'WORKFLOW', href: '#how-it-works' },
-  { number: '03', title: 'DASHBOARD', href: '#preview' },
-  { number: '04', title: 'WHY APEX', href: '#why-us' },
-  { number: '05', title: 'GET ACCESS', href: '#early-access' },
+  { number: '01', title: 'HERO', href: '#hero' },
+  { number: '02', title: 'HOW IT WORKS', href: '#how-it-works' },
+  { number: '03', title: 'FEATURES & WHY APEX', href: '#features' },
+  { number: '04', title: 'FAQ & TRUST', href: '#faq' },
+  { number: '05', title: 'EARLY ACCESS', href: '#early-access' },
 ];
 
 const SOCIAL_LINKS = [

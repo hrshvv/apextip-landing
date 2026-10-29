@@ -11,7 +11,7 @@ export function StatsStrip() {
         
         {/* Section Technical Label */}
         <div className="flex items-center justify-between mb-8 font-mono text-[10px] text-neutral-500 tracking-widest border-b border-white/5 pb-2">
-          <span>{'//'} 002 TELEMETRY & PRODUCT CONSTRAINTS</span>
+          <span>{'//'} 001 PRODUCT CONSTRAINTS & TELEMETRY</span>
           <span className="hidden sm:inline">DATA_SOURCE: NATIVE_ENGINE</span>
           <span>STATUS: REAL_VALUES</span>
         </div>

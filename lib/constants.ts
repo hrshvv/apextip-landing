@@ -58,11 +58,11 @@ export const BRAND_CONFIG = {
 };
 
 export const NAV_LINKS: NavItem[] = [
-  { label: '01 // FEATURES', href: '#features' },
+  { label: '01 // HERO', href: '#hero' },
   { label: '02 // WORKFLOW', href: '#how-it-works' },
-  { label: '03 // PREVIEW', href: '#preview' },
-  { label: '04 // WHY APEX', href: '#why-us' },
-  { label: '05 // FAQ', href: '#faq' },
+  { label: '03 // FEATURES & WHY APEX', href: '#features' },
+  { label: '04 // FAQ & TRUST', href: '#faq' },
+  { label: '05 // EARLY ACCESS', href: '#early-access' },
 ];
 
 export const HERO_CONTENT = {
@@ -325,7 +325,7 @@ export const FAQ_ITEMS: FaqItem[] = [
 ];
 
 export const EARLY_ACCESS_CONTENT = {
-  sectionNumber: '006',
+  sectionNumber: '005',
   badge: 'INVITATION ONLY · BATCH 01',
   headline: 'CLAIM YOUR HANDLE. GET EARLY ACCESS.',
   description:
